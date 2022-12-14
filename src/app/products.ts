@@ -20,7 +20,7 @@ export const products = [
   },
   {
     id: 3,
-    name: 'Phone Standard',
+    name: 'Phone Caca',
     price: 299,
     description: 'Una caca de movil',
   },
